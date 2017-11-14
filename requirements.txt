@@ -1,0 +1,5 @@
+jupyter
+pandas
+pytest
+nbval
+pylint
