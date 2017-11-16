@@ -3,3 +3,9 @@ pandas
 pytest
 nbval
 pylint
+keras
+tensorflow
+statsmodels
+seaborn
+matplotlib
+sklearn

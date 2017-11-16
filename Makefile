@@ -2,7 +2,8 @@ setup:
 	python3 -m venv ~/.reml
 
 install:
-	pip install -r requirements.txt
+	echo "UPGRADE pip install\n"
+	pip install -r requirements.txt --upgrade
 
 test:
 	#PYTHONPATH=. && pytest -vv --cov=paws --cov=spot-price-ml tests/*.py
