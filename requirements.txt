@@ -9,3 +9,5 @@ statsmodels
 seaborn
 matplotlib
 sklearn
+plotly
+cufflinks
