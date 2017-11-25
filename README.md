@@ -14,7 +14,7 @@ https://www.zillow.com/research/data/
 
 # Exploritory Data Analysis
 
-* [Jupyter Notebook with Plotly Integration](https://github.com/noahgift/real_estate_ml/blob/master/notebooks/explore_zillow_data_sets.ipynb)
+* [Jupyter Notebook with Plotly Integration doing Zillow Data Exploration](https://github.com/noahgift/real_estate_ml/blob/master/notebooks/explore_zillow_data_sets.ipynb)
 
 # Plotly Graphs
 
