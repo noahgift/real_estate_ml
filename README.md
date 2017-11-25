@@ -18,5 +18,10 @@ https://www.zillow.com/research/data/
 
 # Plotly Graphs
 
-* [30 Year History of Real Estate USA](https://plot.ly/~ngift/9/)
-* [Bay Area Median Prices Single Family Homes](https://plot.ly/~ngift/7/)
+* [Plotly Interactive Chart:  30 Year History of Real Estate USA](https://plot.ly/~ngift/9/)
+
+![30 Year History of Real Estate USA](https://user-images.githubusercontent.com/58792/33234951-e89a4d86-d1e3-11e7-94bc-6ca8ce336104.png)
+
+* [Plotly Interactive Chart:  Bay Area Median Prices Single Family Homes](https://plot.ly/~ngift/7/)
+
+![Bay Area Median Prices Single Family Homes](https://user-images.githubusercontent.com/58792/33234931-90cfd350-d1e3-11e7-94d4-61e6e7ed11d0.png)
