@@ -1,5 +1,9 @@
 # real_estate_ml
+Local copy of clone
 Machine Learning for Real Estate
+
+
+*** This is a new branch ***
 
 You may want to run jupyter in this mode:
 ```
