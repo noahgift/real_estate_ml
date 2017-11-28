@@ -1,6 +1,12 @@
 # real_estate_ml
 Machine Learning for Real Estate
 
+You may want to run jupyter in this mode:
+```
+jupyter notebook --NotebookApp.iopub_data_rate_limit=10000000000
+```
+
+
 ## Zillow API Sign Up
 
 To sign up for the zillow api:
