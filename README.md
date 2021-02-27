@@ -18,7 +18,7 @@ https://www.zillow.com/howto/api/APIOverview.htm
 Zillow data can be downloaded from site here:
 https://www.zillow.com/research/data/
 
-# Exploritory Data Analysis
+# Exploratory Data Analysis
 
 * [Jupyter Notebook with Plotly Integration doing Zillow Data Exploration](https://github.com/noahgift/real_estate_ml/blob/master/notebooks/explore_zillow_data_sets.ipynb)
 
